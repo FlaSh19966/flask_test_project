@@ -1,0 +1,10 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+Flask-Login
+psycopg2
+python-dotenv
+celery
+redis
+pycryptodome
+pandas
